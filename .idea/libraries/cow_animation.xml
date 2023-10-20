@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cow-animation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cow-animation.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

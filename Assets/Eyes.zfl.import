@@ -1,0 +1,26 @@
+[remap]
+
+importer="flash"
+type="FlashDocument"
+path.s3tc="res://.import/Eyes.zfl-e3ab5f37c38d531eed51387351d0356b.s3tc.res"
+path.etc2="res://.import/Eyes.zfl-e3ab5f37c38d531eed51387351d0356b.etc2.res"
+metadata={
+"imported_formats": [ "s3tc", "etc2" ],
+"importer_version": 12,
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://Assets/Eyes.zfl"
+dest_files=[ "res://.import/Eyes.zfl-e3ab5f37c38d531eed51387351d0356b.s3tc.res", "res://.import/Eyes.zfl-e3ab5f37c38d531eed51387351d0356b.etc2.res" ]
+
+[params]
+
+process/downscale=0
+process/fix_alpha_border=true
+compress/mode=1
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=true
+flags/srgb=0
